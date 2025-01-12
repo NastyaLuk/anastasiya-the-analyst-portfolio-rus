@@ -224,4 +224,4 @@ end
 ![Survey](/12.png)
 ![Content](/11.png)
 
-[Publication](http://edoc.bseu.by:8080/handle/edoc/97163?locale=ru)
+[Публикация](http://edoc.bseu.by:8080/handle/edoc/97163?locale=ru)
